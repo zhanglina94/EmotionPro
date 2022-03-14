@@ -5,8 +5,7 @@
 #step1:download fer2013dataset(第一步：下载fer2013数据集)
 
 #step2:Use pandas to parse the csv file, and then save the original image data as a jpg file, classify it according to the purpose and label, and save it to the corresponding folder.(第二步使用pandas解析csv文件，再将原始图片数据保存为jpg文件，并根据用途和标签标签进行分类，分别保存到对应文件夹下)
-
-PrivteTest folder/ PublicTest  folder/Training folder
+#run fer2013process.py   PrivteTest folder/ PublicTest  folder/Training folder
 
 #step3: model.py(新建model.py)
 
